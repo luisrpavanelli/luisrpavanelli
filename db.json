@@ -65,4 +65,4 @@ npm install -g json-server
   ]
 }
 
-json-server --watch peliculasdb.json
+json-server --watch db.json
