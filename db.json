@@ -63,4 +63,4 @@
   ]
 }
 
-json-server --watch db.json
+db.json
