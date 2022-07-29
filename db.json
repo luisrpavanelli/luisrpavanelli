@@ -1,4 +1,3 @@
-npm install xv --save-dev
 
 {
   "peliculas": [
@@ -64,5 +63,4 @@ npm install xv --save-dev
     }
   ]
 }
-npm test
-npx xv src/db.test.js 
+
